@@ -12,11 +12,13 @@ body {
   text-align: center
 }
 
+/* Commit 1 – resize color picker */
 #color-input {
   padding: .5em;
   width: 200px
 }
 
+/* Commit 2 – button active pop */
 #apply-btn {
   padding: .5em 1em;
   margin-left: .5em;
