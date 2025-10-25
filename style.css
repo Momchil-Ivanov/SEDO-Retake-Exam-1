@@ -35,6 +35,14 @@ body {
   border-radius: 4px
 }
 
+/* Commit 2 – hover shades */
+#apply-btn:hover,
+#random-btn:hover {
+  background: #eee;
+  border-color: #666
+}
+
+/* Commit 3 – subtle border animation */
 #box {
   margin-top: 1em;
   width: 150px;
